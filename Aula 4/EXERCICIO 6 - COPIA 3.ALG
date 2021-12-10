@@ -20,7 +20,7 @@ Inicio
    escreval("2 - Subtrair")
    escreval("3 - Multiplicação")
    escreval("4 - Divisão")
-   ESCREVAL("0 - Sair")
+   escreval("0 - Sair")
    leia(opcao)
    limpatela
 

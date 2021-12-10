@@ -1,4 +1,4 @@
-Algoritmo "Ecercicio 4"
+Algoritmo "Exercicio 4"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Rubem Oliota
 // Descrição   : Programa de média com concatenação de variaveis e textos
@@ -30,7 +30,7 @@ Inicio
 
    media <- nota1 + nota2 + nota3) 3 / 3
 
-   se media > 7 entao
+   se media >= 7 entao
       escreval("Parabéns " , nome , " você está aprovado, com média:" , media , "!")
 
    senao

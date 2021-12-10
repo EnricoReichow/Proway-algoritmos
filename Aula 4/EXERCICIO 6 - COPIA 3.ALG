@@ -39,9 +39,9 @@ Inicio
    caso 2
       escreval("Realizando a subtração entre " , na ,  " -" , nb , " =" , na - nb)
    caso 3
-      escreval("Realizando a soma entre " , na ,  " x" , nb , " =" , na * nb)
+      escreval("Realizando a multiplicação entre " , na ,  " x" , nb , " =" , na * nb)
    caso 4
-      escreval("Realizando a soma entre " , na ,  " /" , nb , " =" , na / nb)
+      escreval("Realizando a divisão entre " , na ,  " /" , nb , " =" , na / nb)
    outrocaso
       escreval("Não temos essa opção de cálculo")
    fimescolha

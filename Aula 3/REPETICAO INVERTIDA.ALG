@@ -15,7 +15,7 @@ Inicio
 
    escreval("Informe uma quantidade para as repetições") // usado para pegar o mais recente primeiro
    leia(quantidade)
-   // como postagens do facebook em que a mais ecente aparece primeiro
+   // como postagens do facebook em que a mais recente aparece primeiro
    se quantidade > 200 entao
       escreval("Tente um numero menor ou igual a 200")
    senao

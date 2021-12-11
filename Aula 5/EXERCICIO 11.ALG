@@ -21,6 +21,7 @@ Inicio
    leia(nome)
    escreval("Vamos calcular sua média")
 
+   soma <- 0
    contador <- 0
    repita
       escreval(nome, " informe uma nota, ou para concluir digite < 00 >")
